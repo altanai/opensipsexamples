@@ -1,0 +1,1 @@
+contact_id(int,auto) username(str) domain(str) contact(str) received(str) expires(int) q(float) callid(str) cseq(int) last_modified(datetime) flags(int) cflag(str) user_agent(str) socket(str) methods(int) sip_instance(str) kv_store(str) attr(str)
